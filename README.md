@@ -1,5 +1,5 @@
 # Data Analysis on Movie Profitability
-![image](~/Image/nomadland.png)
+![image](Image/nomadland.png)
 
 
 
