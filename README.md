@@ -91,7 +91,19 @@ To answer to this question, movies were categorized based on their genres. Then 
 
 #### Budget Range Visualisation
 
-![image](https://user-images.githubusercontent.com/101681195/181113608-1dce2c38-e966-4aa0-b0df-1df72f8f4f27.png)
+![image](https://user-images.githubusercontent.com/101681195/181116176-ceaa9c19-096b-4c32-8a86-3f86ed17966d.png)
+
+##### Insights
+According to 'Genre Visualisation' fiure, sci-Fi, adventure, action and animation genres had the most worldwide gross while western, family, thriller and music genres had less worldwide gross. This fig showed higher gross did not necessary need higher production budget. To better understanding the relationship between production budget and worldwide gross, net income was plotted (fig. 2). Net income defined as worldwide gross minus production budget. The plot showed movies net income based on their genres. As it can be seen in fig. 2 the sci-fi, adventure, musical, animation and action genres ranked one to five. The net income of sci-fi genres is around 300 million dollars which is about two time more than other 4 top genres. 
+
+By Categorizing the budget deciding on choosing the genres based on the amount of budget is more logical. According to fig.3, higher than 344 million dollars sci-fi genres had more gross while for budget less than 263 million dollars drama genres created more gross. 
+##### Recommendation
+	Make a sci-fi film with a production budget between 344-425 million dollars.
+Make a drama movie with production budget between 182-263 million dollars. 
+
+##### Future work
+ Explore the effect of directors, producers and writers on gross
+
 
 
 
