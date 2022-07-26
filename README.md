@@ -12,7 +12,7 @@ Entertainment industry have been characterized by growth over the recent years. 
 
 ## Business Understanding
 
- Microsoft have decided to create a new movie studio, but they don’t know anything about creating movies. To run a new business, it is important to have an exploratory data analysis to understand the marketplace, set revenue and profitability goals. Exploring available database would help them to know what types of films are currently doing the best at the box office. In addition, other criteria like realse time and running time trend would help them to enhance their investment return guarantee.  
+ Microsoft have decided to create a new movie studio, but they don’t know anything about creating movies. To run a new business, it is important to have an exploratory data analysis to understand the marketplace, set revenue and profitability goals. Exploring available database would help them to know what types of films are currently doing the best at the box office. In addition, considering other criteria like realse time and running time trend enhances the likelihood of a descent return on their investment. 
  The key business questions include:
  
     . Qestion 1; Which Generes need more budget and create gross more?
@@ -39,17 +39,17 @@ The general research strategy in this project is to do exploratory data analysis
 
 The first step to start a project is to choose neaded libraries and modulas in python and import them to your framework. For this project belwo libries were used:
 
-Pandas: a software library written for the Python programming language used for data analysis and associated manipulation of tabular data in Dataframes
+. Pandas: a software library written for the Python programming language used for data analysis and associated manipulation of tabular data in Dataframes
 
-Numpy:  the core library for scientific computing in Python
+. Numpy:  the core library for scientific computing in Python
 
-Matplotlib: a comprehensive library for creating static, animated, and interactive visualizations in Python
+. Matplotlib: a comprehensive library for creating static, animated, and interactive visualizations in Python
 
-Seaborn: a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics. 
+. Seaborn: a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics. 
 
-OS: a module in Python provides functions for creating and removing a directory (folder), fetching its contents, changing and identifying the current directory.
+. OS: a module in Python provides functions for creating and removing a directory (folder), fetching its contents, changing and identifying the current directory.
 
-Warnings :  a module suppresses repeated warnings from the same source to cut down on the annoyance of seeing the same message over and over.
+. Warnings :  a module suppresses repeated warnings from the same source to cut down on the annoyance of seeing the same message over and over.
 
 There are 6 movie database in this project: 
 
@@ -78,3 +78,7 @@ Sometimes we need to updates the content of several DataFrame by merging them to
 
 Asking the right data analysis questions is crucial for getting accurate, actionable insights from the data analytics. In this project we answer to three main questions.
 ### Question 1; Which Genres need more budget and create gross more?
+
+To answer to this question, movies were categorized based on their genres. Then their production budget and worldwide gross plot based on genres. 
+
+![image](Image/gross per enres.png.png)
