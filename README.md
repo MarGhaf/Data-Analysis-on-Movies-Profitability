@@ -35,3 +35,20 @@ The general research strategy in this project is to do exploratory data analysis
  . Conclusion & Recommendations
  
  
+### Source of Data 
+I can accessed the files using the .read_csv() method.
+There are 6 database in this project:
+
+1. bom.movie_gross.csv.gz
+
+2. tn.movie_budgets.csv.gz
+
+3. tmdb.movies.csv.gz
+
+4. rt.movie_info.tsv.gz
+
+5. rt.reviews.tsv.gz
+
+6. im.db
+
+These data collected from various locations, the different files have different formats. Some are compressed CSV (comma-separated values) can be opened using  pd.read_csv () method, while the data from IMDB is located in a SQLite database and can asscess them with pd.read_sql() method. 
