@@ -14,8 +14,11 @@ Entertainment industry have been characterized by growth over the recent years. 
 
  Microsoft have decided to create a new movie studio, but they don’t know anything about creating movies. To run a new business, it is important to have an exploratory data analysis to understand the marketplace, set revenue and profitability goals. Exploring available database would help them to know what types of films are currently doing the best at the box office. In addition, other criteria like realse time and running time trend would help them to enhance their investment return guarantee.  
  The key business questions include:
+ 
     . Qestion 1; Which Generes need more budget and create gross more?
+    
     . Qestion 2: Best relase month for geners and gross?
+    
     . Qestion 3 : What is the perfect running time for a movie?
 
 
@@ -24,6 +27,11 @@ Entertainment industry have been characterized by growth over the recent years. 
 The general research strategy in this project is to do exploratory data analysis on the persent data collection in film industry. The process include belwo steps:
 
  . Import libraries and load dataset
+ 
  . Data cleaning
+ 
  . Asking Analytical Questions and Visualizations
+ 
  . Conclusion & Recommendations
+ 
+ 
