@@ -91,7 +91,7 @@ To answer to this question, movies were categorized based on their genres. Then 
 
 ### Budget Range Visualisation
 
-![image](https://user-images.githubusercontent.com/101681195/181116176-ceaa9c19-096b-4c32-8a86-3f86ed17966d.png)
+![image](https://user-images.githubusercontent.com/101681195/181120975-be1990f6-95f5-404c-9109-60171ba49dad.png)
 
 ### Insights
 According to 'Genre Visualisation' fiure, sci-Fi, adventure, action and animation genres had the most worldwide gross while western, family, thriller and music genres had less worldwide gross. This fig showed higher gross did not necessary need higher production budget. To better understanding the relationship between production budget and worldwide gross, net income was plotted (Net Income Visualisation). Net income defined as worldwide gross minus production budget. The plot showed movies net income based on their genres.  Sci-fi, adventure, musical, animation and action genres ranked one to five. The net income of sci-fi genres is around 300 million dollars which is about two time more than other 4 top genres. 
@@ -106,3 +106,38 @@ By Categorizing the budget deciding on choosing the genres based on the amount o
 
 ## Question 2; What is the best months for releasing a movie
 
+Releasing time of the movies is one of the factors that have affect on movie gross
+
+### Release Time Visualisation
+
+![image](https://user-images.githubusercontent.com/101681195/181121138-6d0271a8-7769-4702-8940-244b8967d381.png)
+
+### Release Time by Gener Visualisation
+
+![image](https://user-images.githubusercontent.com/101681195/181121528-7fdd7794-b4df-44ec-8f2f-5394231215c4.png)
+
+### Insights
+
+According to Release Time Visualisation, releasing movies at the in Jun, July and May produced more worldwide gross. That showed at the beginning of summer is a suitable time for movie releasing. On the other hand, September, October and January were not appropriate time for movie releasing. But before deciding just on this plot we should check genres diversity in each month. By taking a look at the number of movies released in each month among high gross genres (Sci-Fi, Adventure, Action and Animation) that showed in Release Time by Gener Visualisation it is clear that the number of movie had almost similar trend in every months. This plot confirmed the impact of releasing time on movie gross. 
+### Recommendation
+- The best month for releasing movie is beginning of the summer in July and the worst time is in September
+
+### Future work
+
+
+## Question 3; What is the perfect running time for a movie? 
+
+### Running Time Visualisation
+![image](https://user-images.githubusercontent.com/101681195/181122113-da5d91fc-ff6d-43c0-bb9d-f6a8b5ef438e.png)
+### Running Time by Gener Visualisation
+![image](https://user-images.githubusercontent.com/101681195/181122207-cb3c3555-ee34-455e-b937-08b92f87b412.png)
+
+### Insights
+Normally we assume the low budget movie are shorter. But according to fig.6 running time did not cause a trend in increasing the movie budget. On the other hand, longer movie did not resalt in higher gross. It seems movies with 70-90 minutes running time had higher gross. 
+Among top 100 high gross movie most action genres had running time between 110-150 minutes. Adventure movies had various running time from 90 minutes to 170 minutes and higher running time did not enhance the gross. Sci-fi with running time between 90-110 had a higher world gross. It is hard to come to the conclusion that each genre with what running time had higher gross. 
+
+### Recommendation
+- Make movie with running time between 70-90 min. 
+
+### Future work
+- Study on running time has changed during the time. 
