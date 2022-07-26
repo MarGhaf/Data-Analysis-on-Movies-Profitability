@@ -81,5 +81,17 @@ Asking the right data analysis questions is crucial for getting accurate, action
 
 To answer to this question, movies were categorized based on their genres. Then their production budget and worldwide gross plot based on genres. 
 
-![image](Image/gross per genres.png)
-![image](Image/nomadland.png)
+#### Genre Visualisation
+
+![image](https://user-images.githubusercontent.com/101681195/181111130-16763cb9-341d-429f-b70b-32100bf973af.png)
+
+#### Net Income Visualisation
+
+![image](https://user-images.githubusercontent.com/101681195/181111697-cbe69b07-6dfe-4224-9f25-60f52e3a0e39.png)
+
+#### Budget Range Visualisation
+
+![image](https://user-images.githubusercontent.com/101681195/181113608-1dce2c38-e966-4aa0-b0df-1df72f8f4f27.png)
+
+
+
