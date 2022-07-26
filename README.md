@@ -17,3 +17,13 @@ Entertainment industry have been characterized by growth over the recent years. 
     . Qestion 1; Which Generes need more budget and create gross more?
     . Qestion 2: Best relase month for geners and gross?
     . Qestion 3 : What is the perfect running time for a movie?
+
+
+## Data Understanding and Analysis
+
+The general research strategy in this project is to do exploratory data analysis on the persent data collection in film industry. The process include belwo steps:
+
+ . Import libraries and load dataset
+ . Data cleaning
+ . Asking Analytical Questions and Visualizations
+ . Conclusion & Recommendations
