@@ -69,3 +69,12 @@ These data collected from various locations, the different files have different 
 
 ## Data cleaning
 The second step in doing a project is to cleaning up datasets and making them operational. In fact, this step in acquiring and cleaning data is 80% of the work. In this way, dealing with messy data means dealing with missing values, inconsistent formatting, malformed records, or nonsensical outliers. The begining of data cleaning is to print a concise summary of a DataFrame with .info() method and view a small sample of DataFrame object with head() method. Through the .info() method we access the valuable information about missing values and datatype. .isnull() is a method that help us to determin the missing value and based on the percentage of them or necessity of them, decided on delet (.dropna() method) them or fill (.fillna() method) them with sutiable values. With duplicated() method we also the duplication and drop them through .drop_duplicates() method. 
+
+Data in wrong format can make it difficult, or even impossible, to analyze data. .to_datetime() and .astype() were two methods we used to change the data type. In some cells we had wrong data and changed them with .replace() method. 
+ 
+Sometimes we need to updates the content of several DataFrame by merging them together (.merge() method. Selecting type of merge and the common coulnm to merge on it change the new datafram structure.  
+
+## Asking Analytical Questions and Visualizations
+
+Asking the right data analysis questions is crucial for getting accurate, actionable insights from the data analytics. In this project we answer to three main questions.
+### Question 1; Which Genres need more budget and create gross more?
