@@ -35,9 +35,18 @@ The general research strategy in this project is to do exploratory data analysis
  . Conclusion & Recommendations
  
  
-### Source of Data 
-I can accessed the files using the .read_csv() method.
-There are 6 database in this project:
+### Import libraries and load dataset
+
+The first step to start a project is to choose neaded libraries and modulas in python and import them to your framework. For this project belwo libries were used:
+
+Pandas: a software library written for the Python programming language used for data analysis and associated manipulation of tabular data in Dataframes
+Numpy:  the core library for scientific computing in Python
+Matplotlib: a comprehensive library for creating static, animated, and interactive visualizations in Python
+Seaborn: a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics. 
+OS: a module in Python provides functions for creating and removing a directory (folder), fetching its contents, changing and identifying the current directory.
+Warnings :  a module suppresses repeated warnings from the same source to cut down on the annoyance of seeing the same message over and over.
+
+There are 6 movie database in this project: 
 
 1. bom.movie_gross.csv.gz
 
@@ -52,3 +61,5 @@ There are 6 database in this project:
 6. im.db
 
 These data collected from various locations, the different files have different formats. Some are compressed CSV (comma-separated values) can be opened using  pd.read_csv () method, while the data from IMDB is located in a SQLite database and can asscess them with pd.read_sql() method. 
+
+
