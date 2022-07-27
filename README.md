@@ -123,7 +123,7 @@ According to Release Time Visualisation, releasing movies at the in Jun, July an
 - The best month for releasing movie is beginning of the summer in July and the worst time is in September
 
 ### Future work
-
+- Studying on the best gap between the movie trailer release and movie relase time
 
 ## Question 3; What is the perfect running time for a movie? 
 
@@ -140,4 +140,4 @@ Among top 100 high gross movie most action genres had running time between 110-1
 - Make movie with running time between 70-90 min. 
 
 ### Future work
-- Study on running time has changed during the time. 
+- Studying on effect of running time on reducing the cinemas showtimes and its impact on box office performance. 
