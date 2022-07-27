@@ -11,7 +11,7 @@ The entertainment industry has been characterized by growth over recent years. N
 
 ## Business Understanding
 
-Microsoft has decided to create a new movie studio, but they don’t know anything about producing movies. To run a new business, it is important to have an exploratory data analysis to understand the marketplace, set revenue and profitability goals. Exploring available database would help them know what types of films are currently doing the best at the box office. In addition, considering other criteria like realse time and running time trend enhances the likelihood of a descent return on their investment. 
+Microsoft has decided to create a new movie studio, but they don’t know anything about producing movies. To run a new business, it is important to have an exploratory data analysis to understand the marketplace, set revenue and profitability goals. Exploring available database would help them know what types of films are currently doing the best at the box office. In addition, considering other criteria like release time and running time trend enhances the likelihood of a decent return on their investment. 
  The key business questions include:
  
     - Question 1; Which Genres need more budget and create more gross?
@@ -34,7 +34,7 @@ The general research strategy in this project is to do exploratory data analysis
  - Conclusion & Recommendations
  
  
-### Import libraries and load dataset
+### Import Libraries and Load Dataset
 
 The first step to starting a project is to choose needed libraries and modules in python and import them to your framework. For this project below libraries were used:
 
@@ -66,7 +66,7 @@ There are six movie databases in this project:
 
 These data were collected from various locations and the different files have different formats. Some are compressed CSV (comma-separated values) can be opened using  `pd.read_csv()` method, while the data from IMDB is located in a SQLite database and can access them with `pd.read_sql()` method.  
 
-## Data cleaning
+## Data Cleaning
 The second step in doing a project is to clean up datasets and make them operational. This step in acquiring and cleaning data is 80% of the work. In this way, dealing with messy data means dealing with missing values, inconsistent formatting, malformed records, or nonsensical outliers. The beginning of data cleaning is to print a concise summary of a DataFrame with `.info()` method and view a small sample of the DataFrame object with `.head()` method. Through the `.info()` method we access valuable information about missing values and datatype. `.isnull()` is a method that helps us determine the missing value and based on the percentage of them or necessity of them, decided on delete (`.dropna()` method) them or fill (`.fillna()` method) them with suitable values. With `.duplicated()` method we also check the duplications and drop them through `.drop_duplicates()` method. 
 
 Data in the wrong format can make it difficult, or even impossible, to analyze data. `.to_datetime()` and `.astype()` were two methods we used to change the data type. In some cells, we had the wrong data and changed them with `.replace()` method. 
@@ -100,7 +100,7 @@ By Categorizing the budget deciding on choosing the genres based on the amount o
 - Make a sci-fi film with a production budget between 344-425 million dollars.
 - Make a drama movie with a production budget between 182-263 million dollars. 
 
-### Future work
+### Future Work
  - Explore the effect of directors, producers, and writers on gross
 
 ## Question 2; What are the best months for releasing a movie?
@@ -122,7 +122,7 @@ According to the 'Release Time Visualisation' figure, releasing movies in Jun, J
 ### Recommendation
 - The best month for releasing a movie is the beginning of the summer in July, and the worst time is in September.
 
-### Future work
+### Future Work
 - Studying the best gap between the movie trailer release and movie release time.
 
 ## Question 3; What is the perfect running time for a movie? 
