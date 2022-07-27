@@ -90,7 +90,8 @@ To answer this question, movies were categorized based on their genres. Then the
 
 ### Budget Range Visualisation
 
-![image](https://user-images.githubusercontent.com/101681195/181303477-6d499b5b-e754-4665-951e-2b55a5fd3f20.png)
+![image](https://user-images.githubusercontent.com/101681195/181372260-c0ca7af6-1dd0-43d9-a999-41b9597d1622.png)
+
 
 ### Insights
 According to the 'Genre Visualisation' figure, sci-fi, adventure, action, and animation genres had the most worldwide gross while western, family, thriller, and music genres had less worldwide gross. This fig showed higher gross did not necessarily need a higher production budget. To better understand the relationship between production budget and worldwide gross, net income was plotted (Net Income Visualisation). Net income was defined as worldwide gross minus production budget. The plot showed movies' net income based on their genres.  Sci-fi, adventure, musical, animation, and action genres ranked one to five. The net income of the sci-fi genre was around 300 million dollars which was about two times more than the other four top genres. 
@@ -131,7 +132,7 @@ According to the 'Release Time Visualisation' figure, releasing movies in Jun, J
 ![image](https://user-images.githubusercontent.com/101681195/181303663-1bfb21d9-3a10-48c8-8b05-43db071725b6.png)
 
 ### Running Time by Gener Visualisation
-![image](https://user-images.githubusercontent.com/101681195/181303721-8a646f6a-7915-4c84-b67c-479c4311b806.png)
+![image](https://user-images.githubusercontent.com/101681195/181374756-78c652d2-1225-4a9e-9744-ad4abad816f5.png)
 
 ### Insights
 Normally we assume low-budget movies are shorter. But according to the  'Running Time Visualisation' figure, running time did not cause a trend in increasing the movie budget. On the other hand, the longer movie did not result in higher gross. It seems movies with 70-90 minutes running time had higher gross.  
