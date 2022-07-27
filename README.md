@@ -88,6 +88,7 @@ To answer this question, movies were categorized based on their genres. Then the
 
 ![image](https://user-images.githubusercontent.com/101681195/181303427-54db0d48-6774-474a-9d32-26a448ee592b.png)
 
+
 ### Budget Range Visualisation
 
 ![image](https://user-images.githubusercontent.com/101681195/181372260-c0ca7af6-1dd0-43d9-a999-41b9597d1622.png)
@@ -130,6 +131,7 @@ According to the 'Release Time Visualisation' figure, releasing movies in Jun, J
 
 ### Running Time Visualisation
 ![image](https://user-images.githubusercontent.com/101681195/181303663-1bfb21d9-3a10-48c8-8b05-43db071725b6.png)
+
 
 ### Running Time by Gener Visualisation
 ![image](https://user-images.githubusercontent.com/101681195/181374756-78c652d2-1225-4a9e-9744-ad4abad816f5.png)
