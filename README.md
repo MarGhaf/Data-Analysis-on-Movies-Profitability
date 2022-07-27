@@ -23,7 +23,7 @@ Entertainment industry have been characterized by growth over the recent years. 
 
 ## Data Understanding and Analysis
 
-The general research strategy in this project is to do exploratory data analysis on the persent data collection in film industry. The process include belwo steps:
+The general research strategy in this project is to do exploratory data analysis on the present data collection in the film industry. The process includes the below steps:
 
  - Import libraries and load dataset
  
@@ -50,7 +50,7 @@ The first step to start a project is to choose neaded libraries and modulas in p
 
 - `Warnings` :  a module suppresses repeated warnings from the same source to cut down on the annoyance of seeing the same message over and over.
 
-There are 6 movie database in this project: 
+There are 6 movie databases in this project: 
 
 1. bom.movie_gross.csv.gz
 
@@ -64,7 +64,7 @@ There are 6 movie database in this project:
 
 6. im.db
 
-These data collected from various locations, the different files have different formats. Some are compressed CSV (comma-separated values) can be opened using  `pd.read_csv()` method, while the data from IMDB is located in a SQLite database and can asscess them with `pd.read_sql()` method. 
+These data collected from various locations and the different files have different formats. Some are compressed CSV (comma-separated values) can be opened using  `pd.read_csv()` method, while the data from IMDB is located in a SQLite database and can asscess them with `pd.read_sql()` method. 
 
 ## Data cleaning
 The second step in doing a project is to cleaning up datasets and making them operational. In fact, this step in acquiring and cleaning data is 80% of the work. In this way, dealing with messy data means dealing with missing values, inconsistent formatting, malformed records, or nonsensical outliers. The begining of data cleaning is to print a concise summary of a DataFrame with `.info()` method and view a small sample of DataFrame object with `.head()` method. Through the `.info()` method we access the valuable information about missing values and datatype. `.isnull()` is a method that help us to determin the missing value and based on the percentage of them or necessity of them, decided on delet (`.dropna()` method) them or fill (`.fillna()` method) them with sutiable values. With duplicated() method we also the duplication and drop them through `.drop_duplicates()` method. 
