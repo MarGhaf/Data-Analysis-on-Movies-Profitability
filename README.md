@@ -122,7 +122,7 @@ The release time of the movies is one of the factors that affect the movie's gro
 According to the 'Release Time Visualisation' figure, releasing movies in Jun, July and May produced more worldwide gross. That showed at the beginning of the summer is a suitable time for the movie's release. On the other hand, September, October, and January were not the appropriate time for the movie's release. But before deciding just on this plot we should check genre diversity each month. By taking a look at the number of movies released each month among high gross genres (Sci-Fi, Adventure, Action, and Animation) that showed in the 'Release Time by Gener Visualisation' figure it is clear that the number of the movies had an almost similar trend in every month. This plot confirmed the impact of releasing time on movie gross. 
 
 ### Recommendation
-- The best month for releasing a movie is the beginning of the summer in July, and the worst time is in September.
+- The best month for releasing a movie is the beginning of the summer in Jun, and the worst time is in September.
 
 ### Future Work
 - Studying the best gap between the movie trailer release and movie release time.
